@@ -5,7 +5,7 @@ a:link {
   color: black;
   text-decoration: none;
 }
-#player_one{background-color:rgba(0, 0, 0, 0)}
+#player_one{background-color:rgb(0, 0, 0, 0)}
 #new{
 	 border: 2px solid black;
 	 align-content: center;
