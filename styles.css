@@ -5,8 +5,8 @@ a:link {
   color: black;
   text-decoration: none;
 }
-#player_two{background-color:white;padding:10px; border-radius:5px}
-#player_one{ border-radius:5px;padding:10px;background-color:rgb(255, 255, 255)}
+.player_two{background-color:white;padding:10px; border-radius:5px}
+.player_one{ border-radius:5px;padding:10px;background-color:rgb(255, 255, 255)}
 #new{
 	 border: 2px solid black;
 	 align-content: center;
